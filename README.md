@@ -87,7 +87,7 @@ And to identify **key insights and opportunities** for optimization using Power 
 
 ## 📷 Dashboard Preview  
 
-![Blinkit Dashboard](./Screenshot%202025-09-02%20230025.png)  
+"C:\Users\Keert\OneDrive\Pictures\Screenshots 1\Screenshot 2025-09-02 230025.png"
 
 ---
 
