@@ -87,7 +87,7 @@ And to identify **key insights and opportunities** for optimization using Power 
 
 ## 📷 Dashboard Preview  
 
-"C:\Users\Keert\OneDrive\Pictures\Screenshots 1\Screenshot 2025-09-02 230025.png"
+<img width="1508" height="855" alt="Screenshot 2025-09-02 230025" src="https://github.com/user-attachments/assets/c530fd24-7838-4e0e-85e0-1705564e554f" />
 
 ---
 
